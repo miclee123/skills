@@ -1,8 +1,8 @@
 <?php
 
-use frontend\DesignPatterns\Behavioral\Classes\PrizeCalculatorFactory;
-use frontend\DesignPatterns\Structural\Adapter\Classes\LibraryAdapter;
-use frontend\DesignPatterns\Structural\Adapter\Interfaces\MyLibraryInterface;
+use DesignPatterns\Behavioral\Classes\PrizeCalculatorFactory;
+use DesignPatterns\Structural\Adapter\Classes\LibraryAdapter;
+use DesignPatterns\Structural\Adapter\Interfaces\MyLibraryInterface;
 
 $params = array_merge(
     require __DIR__ . '/../../common/config/params.php',

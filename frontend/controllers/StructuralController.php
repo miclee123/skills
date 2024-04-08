@@ -2,8 +2,8 @@
 
 namespace frontend\controllers;
 
-use frontend\DesignPatterns\Structural\Adapter\Classes\ExternalLibrary;
-use frontend\DesignPatterns\Structural\Adapter\Interfaces\MyLibraryInterface;
+use DesignPatterns\Structural\Adapter\Classes\ExternalLibrary;
+use DesignPatterns\Structural\Adapter\Interfaces\MyLibraryInterface;
 use yii\web\Controller;
 use yii\web\Request;
 
