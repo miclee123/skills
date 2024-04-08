@@ -2,8 +2,8 @@
 
 namespace frontend\controllers;
 
-use frontend\DesignPatterns\Behavioral\Classes\Employee;
-use frontend\DesignPatterns\Behavioral\Classes\PrizeCalculatorFactory;
+use DesignPatterns\Behavioral\Classes\Employee;
+use DesignPatterns\Behavioral\Classes\PrizeCalculatorFactory;
 use yii\web\Controller;
 
 class BehavioralController extends Controller

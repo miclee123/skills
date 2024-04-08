@@ -2,7 +2,7 @@
 
 namespace frontend\controllers;
 
-use frontend\DesignPatterns\Creational\AbstractFactory\GuiKitFactory;
+use DesignPatterns\Creational\AbstractFactory\GuiKitFactory;
 use yii\web\Controller;
 use yii\web\Request;
 

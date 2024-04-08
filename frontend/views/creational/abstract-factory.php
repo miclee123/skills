@@ -1,8 +1,8 @@
 <?php
 
-use frontend\DesignPatterns\Creational\AbstractFactory\GuiKitFactory;
-use frontend\DesignPatterns\Creational\AbstractFactory\Interfaces\ButtonInterface;
-use frontend\DesignPatterns\Creational\AbstractFactory\Interfaces\CheckboxInterface;
+use DesignPatterns\Creational\AbstractFactory\GuiKitFactory;
+use DesignPatterns\Creational\AbstractFactory\Interfaces\ButtonInterface;
+use DesignPatterns\Creational\AbstractFactory\Interfaces\CheckboxInterface;
 use yii\helpers\Html;
 
 /**
